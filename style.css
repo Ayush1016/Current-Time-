@@ -1,0 +1,18 @@
+.container{
+   /* display: inline; */
+   
+}
+h1{
+    display: inline-block;
+    margin-top: 180px;
+    margin-bottom: 00px;
+    margin-right: 200px;
+    font-size: 40px;
+    border: 2px dashed black;
+    padding-left: 60px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 50px;
+    margin-left: 270px;
+    background-color: beige;
+}
